@@ -15,15 +15,15 @@ Welcome to my GitHub profile. I'm a backend developer with a passion for buildin
 
 Here are some of my projects you might find interesting:
 
-- [E-Commerce API](https://github.com/kerolos-saaid/ecommerce): E-Commerce API: A set of tools for building online stores, including features for product management, cart management, order processing, and secure payments. It enables developers to create, scale, and customize eCommerce solutions efficiently.
-- [Social Media API](link-to-project-2):  Developed a highly functional and efficient Social Media API.
-• Utilized MongoDB and integrated MongoDB hooks to enhance data management and
-performance.
-• Enabled users to create and manage posts, comments, and replies efficiently.
-• Implemented features for users to like posts, comments, and replies, enhancing user
-engagement.
-• Provided users with the ability to control the privacy settings of their posts.
+1. [E-Commerce API](https://github.com/kerolos-saaid/ecommerce)
+2. [Social Media API](https://github.com/kerolos-saaid/social_media)
+## Skills
 
+- Backend Development
+- RESTful API Design
+- Database Design
+- Node.js and Express.js
+- MySQL and MongoDB
 ## Contact Me
 
 Feel free to reach out to me on LinkedIn or via email at kerolos.saaid@email.com. I'm always open to new collaborations and interesting discussions.
