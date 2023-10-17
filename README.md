@@ -6,10 +6,10 @@ Welcome to my GitHub profile. I'm a backend developer with a passion for buildin
 
 - 🌐 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kerolos%20Saaid-blue)](https://www.linkedin.com/in/kerolos-saaid-337392234/)
 - 🛠️ Tech Stack:
-  - Node.js ![Node.js](https://img.shields.io/badge/Node.js-%2343853D)
-  - Express.js ![Express.js](https://img.shields.io/badge/Express.js-%23404d59)
-  - MySQL ![MySQL](https://img.shields.io/badge/MySQL-%234479A1)
-  - MongoDB ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248)
+  - [Node.js](https://img.shields.io/badge/Node.js-%2343853D)
+  - [Express.js](https://img.shields.io/badge/Express.js-%23404d59)
+  - [MySQL](https://img.shields.io/badge/MySQL-%234479A1)
+  - [MongoDB](https://img.shields.io/badge/MongoDB-%2347A248)
 
 ## Projects
 
