@@ -26,6 +26,6 @@ engagement.
 
 ## Contact Me
 
-Feel free to reach out to me on LinkedIn or via email at your@email.com. I'm always open to new collaborations and interesting discussions.
+Feel free to reach out to me on LinkedIn or via email at kerolos.saaid@email.com. I'm always open to new collaborations and interesting discussions.
 
 Happy coding! 🚀
